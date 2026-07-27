@@ -9,6 +9,7 @@ langchain-groq
 langchain-mistralai
 langchain_huggingface
 python-dotenv
+pydantic
 
 faiss-cpu
 tiktoken
